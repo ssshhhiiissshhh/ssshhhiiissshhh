@@ -35,15 +35,6 @@
 
 ---
 
-### 📈 GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
 ### 📬 Контакты
 
 Я открыт к коллаборациям и интересным предложениям в сфере AI.
